@@ -1,3 +1,6 @@
-const seed = {};
+const seed = {
+	userName: '',
+	Password: '',
+};
 
 export default seed;
